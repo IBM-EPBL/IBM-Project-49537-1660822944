@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('cars.jpg');
+  background-repeat: no-repeat;
+}
+</style>
+</head>
+<body>
+<h1>Car Resale Price prediction </h1>
+<h2>Welcome</h2>
+<form action='form.html'>
+<p>CLick here to predict the price</p>
+<input type="submit" value="Click here">
+</form>
+</body>
+</html>
