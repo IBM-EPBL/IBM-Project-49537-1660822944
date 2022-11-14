@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Forms</h2>
+
+
+
+<form action="/y_predict">
+ <h4><center> Please fill the details of your car:</center></h4>
+ Reg Year<input type="number"><br><br>
+  
+ Reg Month:<input type="number"><br><br>
+ 
+ Power of Car in PS:<input type="number"><br><br>
+
+ Kilometer the car has to driven:<input type="number" "style = font-color : white"><br><br>
+
+ 
+ Expected Budget:<input type="text"><br><br>
+  
+Gear Box Type  :
+  Manual:<input type="radio" value="Manual">
+
+  Automatic:<input type="radio" value="Automatic">
+
+  Not-declared:<input type="radio"  value="Not-declared"><br><br>
+
+  
+Your car is damaged or Repaired:
+  Yes:<input type="radio" value="Yes">
+
+  No:<input type="radio" value="No">
+
+  Not-declared:<input type="radio"  value="Not-declared"><br><br>
+  
+  Model Type:<input type="text"><br><br>
+
+  Brand of the car:<input type="text"><br><br>
+
+  Fuel Type  :
+  cng:<input type="radio" value="cng">
+
+  Petrol:<input type="radio" value="Petrol">
+
+  Diesel:<input type="radio" value="Diesel"><br><br>
+
+  Vehicle Type:<input type="text"><br><br>
+
+  <input type="submit" value="Predict">
+
+ <p><b>The resale value  predicted is 3345678.00$</b></p>
+ 
+</form> 
+
+
+</body>
+</html>
